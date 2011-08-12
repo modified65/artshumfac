@@ -1,0 +1,7 @@
+;$Ids
+name = "Arts & Humanities Faculty"
+description = "College of Arts and Humanities faculty listing filtered by department or program"
+core = 6.x
+package = SFSU -> UTIL
+dependencies[] = querypath
+php = 5.1
